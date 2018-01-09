@@ -52,7 +52,7 @@
 <v t="yen.20170108171733.14"><vh>封面投影片</vh>
 <v t="yen.20170108171733.15"><vh>封面投影片內容</vh></v>
 </v>
-<v t="yen.20170108171733.16" a="E"><vh>W1-W3</vh>
+<v t="yen.20170108171733.16"><vh>W1-W3</vh>
 <v t="leo.20171106171745.1" a="E"><vh>準備與鼓勵</vh>
 <v t="leo.20171106171939.1"><vh>內容</vh></v>
 </v>
@@ -69,8 +69,8 @@
 <v t="leo.20171106181033.1"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20170911091459.1" a="E"><vh>W4-W6</vh>
-<v t="leo.20170911091508.1"><vh>學習Python3</vh>
+<v t="leo.20170911091459.1"><vh>W4-W6</vh>
+<v t="leo.20170911091508.1" a="E"><vh>學習Python3</vh>
 <v t="leo.20170911091508.2"><vh>程式學習順序</vh></v>
 </v>
 <v t="leo.20171106183951.1" a="E"><vh>迴圈</vh>
@@ -86,6 +86,33 @@
 </v>
 <v t="leo.20171108233421.1"><vh>筆記</vh>
 <v t="leo.20171108233439.1"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20180109174622.1"><vh>W10-W12</vh>
+<v t="leo.20180109174838.1"><vh>檢討週</vh>
+<v t="leo.20180109175103.1"><vh>檢討週</vh></v>
+</v>
+<v t="leo.20180109180623.1"><vh>計算機數字</vh>
+<v t="leo.20180109180640.1"><vh>計算機數字</vh></v>
+</v>
+<v t="leo.20180109181222.1"><vh>圖片裁減</vh>
+<v t="leo.20180109181241.1"><vh>圖片裁剪</vh></v>
+</v>
+<v t="leo.20180109181946.1"><vh>協同倉儲</vh>
+<v t="leo.20180109181959.1"><vh>協同倉儲</vh></v>
+</v>
+</v>
+<v t="leo.20180109174802.1" a="E"><vh>W13-W15</vh>
+<v t="leo.20180109175016.1" a="E"><vh>newHeadline</vh>
+<v t="leo.20180109184102.1"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20180109184519.1" a="E"><vh>newHeadline</vh>
+<v t="leo.20180109184524.1"><vh>newHeadline</vh></v>
+</v>
+</v>
+<v t="leo.20180109174814.1" a="E"><vh>W16-W18</vh>
+<v t="leo.20180109174907.1" a="E"><vh>期末驗收週</vh>
+<v t="leo.20180109174945.1"><vh>小組製作計算機</vh></v>
 </v>
 </v>
 <v t="leo.20170911090052.1"><vh>快捷鍵</vh>
@@ -350,6 +377,96 @@ Diff...
 * 驗收簡報 20%： 15
 * 總評：72 分
 </t>
+<t tx="leo.20180109174622.1">&lt;section&gt;
+    @others
+&lt;/section&gt;
+</t>
+<t tx="leo.20180109174802.1">&lt;section&gt;
+    @others
+&lt;/section&gt;
+</t>
+<t tx="leo.20180109174814.1">&lt;section&gt;
+    @others
+&lt;/section&gt;
+</t>
+<t tx="leo.20180109174838.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20180109174907.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20180109174945.1"># W16-W18 期末驗收
+
+* 完成與小組一起製作的計算機程式  
+* 網誌：https://github.com/40623130/ag4_pyqt5_calculator
+* 製作個人簡報及小組簡報
+* 以 PyQt5 建立一個計算機程式,從啟動可攜程式系統開始 
+* 網誌：https://www.youtube.com/watch?v=sZYUIriGIz0</t>
+<t tx="leo.20180109175016.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180109175103.1"># W10-W12 檢討週
+
+* 學習製作計算機程式的按鍵
+* 利用DiaPortable 與 GIMPPortable 來修改圖片
+* 建立github帳號與使用協同倉儲且上推</t>
+<t tx="leo.20180109180623.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20180109180640.1">##製作計算機數字程式語法
+
+
+* 利用迴圈製作
+
+* number = [self.one,  self.two,  self.three,   self.four,  self.five,
+self.six,self.seven,  self.eight,  self.nine,  self.zero]
+* for i in number:
+* ____i.clicked.connect(self.digitClicked)</t>
+<t tx="leo.20180109181222.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180109181241.1">###DiaPortable 與 GIMPPortable
+
+
+* GIMPPortable 用來裁剪圖片
+* DiaPortable 簡單編輯圖片樣式 讓人更好閱讀</t>
+<t tx="leo.20180109181946.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180109181959.1">## github協同倉儲
+
+* 邀請與接受小組成員當協同者
+* 期末與小組同學一起完成計算機程式
+</t>
+<t tx="leo.20180109184102.1"># W13-W15
+
+* 與組員共同寫出計算機程式
+* 完成計算機並製作個人簡報與小組報告</t>
+<t tx="leo.20180109184519.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180109184524.1">## 與組員共同寫出計算機程式
+
+* 學習如何上推
+* 解決上推之間的衝突
+* 分工合作一起寫出計算機數字、加減乘除</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
