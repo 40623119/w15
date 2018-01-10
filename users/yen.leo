@@ -80,11 +80,11 @@
 <v t="leo.20170911091622.2"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20170911093601.1"><vh>W7-W9</vh>
+<v t="leo.20170911093601.1" a="E"><vh>W7-W9</vh>
 <v t="leo.20171107204131.1"><vh>期中驗收週</vh>
 <v t="leo.20171107204210.1"><vh>內容</vh></v>
 </v>
-<v t="leo.20171108233421.1"><vh>筆記</vh>
+<v t="leo.20171108233421.1" a="E"><vh>筆記</vh>
 <v t="leo.20171108233439.1"><vh>內容</vh></v>
 </v>
 </v>
@@ -98,7 +98,7 @@
 <v t="leo.20180109181222.1"><vh>圖片裁減</vh>
 <v t="leo.20180109181241.1"><vh>圖片裁剪</vh></v>
 </v>
-<v t="leo.20180109181946.1"><vh>協同倉儲</vh>
+<v t="leo.20180109181946.1" a="E"><vh>協同倉儲</vh>
 <v t="leo.20180109181959.1"><vh>協同倉儲</vh></v>
 </v>
 </v>
@@ -111,8 +111,11 @@
 </v>
 </v>
 <v t="leo.20180109174814.1" a="E"><vh>W16-W18</vh>
-<v t="leo.20180109174907.1" a="E"><vh>期末驗收週</vh>
+<v t="leo.20180109174907.1"><vh>期末驗收週</vh>
 <v t="leo.20180109174945.1"><vh>小組製作計算機</vh></v>
+</v>
+<v t="leo.20180110232515.1" a="E"><vh>newHeadline</vh>
+<v t="leo.20180110232522.1"><vh>newHeadline</vh></v>
 </v>
 </v>
 <v t="leo.20170911090052.1"><vh>快捷鍵</vh>
@@ -451,8 +454,7 @@ self.six,self.seven,  self.eight,  self.nine,  self.zero]
 <t tx="leo.20180109181959.1">## github協同倉儲
 
 * 邀請與接受小組成員當協同者
-* 期末與小組同學一起完成計算機程式
-</t>
+* 期末與小組同學一起完成計算機程式</t>
 <t tx="leo.20180109184102.1"># W13-W15
 
 * 與組員共同寫出計算機程式
@@ -467,6 +469,19 @@ self.six,self.seven,  self.eight,  self.nine,  self.zero]
 * 學習如何上推
 * 解決上推之間的衝突
 * 分工合作一起寫出計算機數字、加減乘除</t>
+<t tx="leo.20180110232515.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20180110232522.1">## 筆記
+&lt;a href="https://scontent.ftpe5-1.fna.fbcdn.net/v/t1.0-9/26230258_1382708181838058_2367243296355217098_n.jpg?oh=f710a5430d0b83eb96c0681d1e2690b6&amp;oe=5AEE25D1"&gt;&lt;img src="https://scontent.ftpe5-1.fna.fbcdn.net/v/t1.0-9/26230258_1382708181838058_2367243296355217098_n.jpg?oh=f710a5430d0b83eb96c0681d1e2690b6&amp;oe=5AEE25D1" width="80" height="120"&gt;&lt;/a&gt;
+&lt;a href="https://scontent.ftpe5-1.fna.fbcdn.net/v/t1.0-9/26231804_1382708178504725_2623474508028475871_n.jpg?oh=e8214a715e76b2aa4dccfe33fad34939&amp;oe=5AF14B4F"&gt;&lt;img src="https://scontent.ftpe5-1.fna.fbcdn.net/v/t1.0-9/26231804_1382708178504725_2623474508028475871_n.jpg?oh=e8214a715e76b2aa4dccfe33fad34939&amp;oe=5AF14B4F" width="80" height="120"&gt;&lt;/a&gt;
+&lt;a href="https://scontent.ftpe5-1.fna.fbcdn.net/v/t1.0-9/26196087_1382708175171392_7965596290402806128_n.jpg?oh=87af3c67806a322a41245c07e39a11e6&amp;oe=5AF1ACDC"&gt;&lt;img src="https://scontent.ftpe5-1.fna.fbcdn.net/v/t1.0-9/26196087_1382708175171392_7965596290402806128_n.jpg?oh=87af3c67806a322a41245c07e39a11e6&amp;oe=5AF1ACDC" width="80" height="120"&gt;&lt;/a&gt;
+&lt;a href="https://scontent.ftpe5-1.fna.fbcdn.net/v/t1.0-9/26196227_1382708235171386_9059896161353814647_n.jpg?oh=612da36731e08f5b9d7ed0381f9bb38d&amp;oe=5AB5A475"&gt;&lt;img src="https://scontent.ftpe5-1.fna.fbcdn.net/v/t1.0-9/26196227_1382708235171386_9059896161353814647_n.jpg?oh=612da36731e08f5b9d7ed0381f9bb38d&amp;oe=5AB5A475" width="80" height="120"&gt;&lt;/a&gt;
+&lt;a href="https://scontent.ftpe5-1.fna.fbcdn.net/v/t1.0-9/26229692_1382708238504719_4501431355782301805_n.jpg?oh=60bf9bc779bbc07d77f9f71232c97944&amp;oe=5AB7DC09"&gt;&lt;img src="https://scontent.ftpe5-1.fna.fbcdn.net/v/t1.0-9/26229692_1382708238504719_4501431355782301805_n.jpg?oh=60bf9bc779bbc07d77f9f71232c97944&amp;oe=5AB7DC09" width="80" height="120"&gt;&lt;/a&gt;
+</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
